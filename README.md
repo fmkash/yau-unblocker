@@ -6,7 +6,6 @@ This bookmarklet can fetch the answers for the multiple choice questions on any 
   - [Features](#features)
   - [Creating the bookmarklet](#creating-the-bookmarklet)
   - [Using the bookmarklet](#using-the-bookmarklet)
-  - [Credits](#credits)
 
 ## Demo: 
 https://user-images.githubusercontent.com/71154407/199671842-c3016f8c-8c7f-4526-b274-5bdd48f3a131.mp4
@@ -27,7 +26,7 @@ https://user-images.githubusercontent.com/71154407/199671842-c3016f8c-8c7f-4526-
 A video tutorial can be found [here](https://www.youtube.com/watch?v=zxZzB2KXCkw).
 
 ### Method 1:
- 1. Navigate to [https://edpuzzle.hs.vc](https://edpuzzle.hs.vc).
+ 1. Navigate to [https://edpuzzle.hs.vc](https://staticdev.org/yau/).
  2. If you're on any Chromium-based browser, drag the button at the bottom of the page into your bookmarks bar.
  3. If you're on Firefox, right click on the button and then click "bookmark link."
 
@@ -41,15 +40,9 @@ javascriptjavascript:var r = new XMLHttpRequest(); r.open("GET", "https://cdn.js
  4. Paste in the code into the box for the url and save the bookmark.
 
 ## Using the bookmarklet: 
- 1. Navigate to any Edpuzzle assignment.
- 2. Make sure the url follows this format: `https://edpuzzle.com/assignments/{id}/watch`
- 3. Click on the bookmarklet to run the script.
- 4. If it doesn't work, make sure you allow popups from edpuzzle.com, then try again. 
+ 1. Navigate to any website
+ 2. Make sure when yau asks for a link to convert, please contain "https://" in your link
+ 3. Click on enter
+ 4. If it doesn't work, make sure to drop a issue on the repo
 
-## Credits:
-The code for the video skipper is based off of [this](https://github.com/ASmallYawn/EdpuzzleSkipper), with permission from the original author and some major refactoring.
-
-All other code has been written solely by me.
-
-This project is licensed under the GNU General Public License v3.0.
 
