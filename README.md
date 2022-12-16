@@ -8,7 +8,7 @@ This bookmarklet can fetch the answers for the multiple choice questions on any 
   - [Using the bookmarklet](#using-the-bookmarklet)
 
 ## Demo: 
-https://user-images.githubusercontent.com/71154407/199671842-c3016f8c-8c7f-4526-b274-5bdd48f3a131.mp4
+https://im5.ezgif.com/tmp/ezgif-5-ab66ac628c.webm
 
 ## Features:
  - Can fetch and display the multiple-choice answers for any Edpuzzle assignment
