@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/71154407/199671842-c3016f8c-8c7f-4526-
 A video tutorial can be found [here](https://www.youtube.com/watch?v=zxZzB2KXCkw).
 
 ### Method 1:
- 1. Navigate to [https://edpuzzle.hs.vc](https://staticdev.org/yau/).
+ 1. Navigate to [https://staticdev.org/yau/](https://staticdev.org/yau/).
  2. If you're on any Chromium-based browser, drag the button at the bottom of the page into your bookmarks bar.
  3. If you're on Firefox, right click on the button and then click "bookmark link."
 
