@@ -8,7 +8,7 @@ This bookmarklet can fetch the answers for the multiple choice questions on any 
   - [Using the bookmarklet](#using-the-bookmarklet)
 
 ## Demo: 
-https://raw.githubusercontent.com/fmkash/yau-unblocker/main/lmaoo.gif
+https://github.com/fmkash/yau-unblocker/blob/main/lmaoo.gif
 
 ## Features:
  - Can fetch and display the multiple-choice answers for any Edpuzzle assignment
