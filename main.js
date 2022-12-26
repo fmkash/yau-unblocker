@@ -8,6 +8,8 @@ const jsonData = {
     "305": "https://e1.staticdev.org/load.html#",
     "304": "https://t1.staticdev.org/load.html#",
     "303": "https://t2.staticdev.org/load.html#",
+    "302": "https://l1.staticdev.org/load.html#",
+    "301": "https://l2.staticdev.org/load.html#",
 }
 const values = Object.values(jsonData)
 
