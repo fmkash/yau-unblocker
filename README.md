@@ -33,7 +33,7 @@ A video tutorial can be found [here](https://www.youtube.com/watch?v=zxZzB2KXCkw
 ### Method 2:
  1. Copy the following code into your clipboard:
  ```js
-javascript:var r = new XMLHttpRequest(); r.open("GET", "https://cdn.jsdelivr.net/gh/fmkash/yau-unblocker@main/main.js", true); r.addEventListener("load", function(){eval(this.responseText);}); r.send();
+javascript:var r = new XMLHttpRequest(); r.open("GET", "https://cdn.jsdelivr.net/gh/fmkash/yau-unblocker@latest/main.js", true); r.addEventListener("load", function(){eval(this.responseText);}); r.send();
  ```
  2. Right click on your bookmarks bar and click "add page."
  3. Set the name of the bookmark to whatever you want.
