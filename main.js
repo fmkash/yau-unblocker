@@ -1,4 +1,10 @@
-const jsonData = {
+  var pwd = prompt ("Enter the password \nIF YOU DONT KNOW THE PASSWORD, MAKE AN ACCOUNT AT \nhttps://news.staticdev.org AND CREATE A NEW POST ASKING FOR THE PASSWORD\n ", "");
+  var epwd = btoa(pwd);
+  if (epwd != "Njc2MA==") {
+  alert ("Wrong password!");
+  return false;
+  } else {
+  const jsonData = {
     "312": "https://incognito.tumbadoware.repl.co/load.html#",
     "311": "https://elixir.tumbadoware.repl.co/load.html#",
     "310": "https://kashiuer-dev.tumbadoware.xyz/load.html#",
@@ -33,3 +39,6 @@ console.log(randomTip)
       var w = window.open("about:blank", "_blank", "status=no,toolbar=no,location=no,directories=no,resizable=yes,scrollbars=yes,width=9999999,height=99999")
       w.document.write('<script>document.title = "about:blank";</script>' +
   '<iframe style="position: absolute;top: 0px;bottom: 0px;right: 0px;width: 100%;border: none;margin: 0;padding: 0;overflow: hidden;z-index: 99999;height: 100%;" src="'+link+'"></iframe>');
+
+   }
+ }
