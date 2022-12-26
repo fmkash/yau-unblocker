@@ -25,7 +25,7 @@ const tipvalues = Object.values(tipData)
 
 const randomTip = tipvalues[parseInt(Math.random() * tipvalues.length)]
 
-  var val= prompt("Enter url to unblock a website \nYAU UNBLOCKER TIP: '+randomTip+'","https://staticdev.org");
+  var val= prompt("Enter url to unblock a website \nYAU UNBLOCKER TIP: "'+randomTip+'"","https://staticdev.org");
   var encoded = btoa(val);
   var link = randomValue + encoded;
       var w = window.open("about:blank", "_blank", "status=no,toolbar=no,location=no,directories=no,resizable=yes,scrollbars=yes,width=9999999,height=99999")
