@@ -16,7 +16,16 @@ const values = Object.values(jsonData)
 
 const randomValue = values[parseInt(Math.random() * values.length)]
 
-  var val= prompt("Enter url to unblock a website \nYAU UNBLOCKER","https://staticdev.org");
+const tipData = {
+    "312": "Include https:// with your link!",
+    "311": "To make a query jus type what you want to search,
+    "310": "Yau has many mirror links!",
+}
+const tipvalues = Object.values(tipData)
+
+const randomTip = tipvalues[parseInt(Math.random() * tipvalues.length)]
+
+  var val= prompt("Enter url to unblock a website \nYAU UNBLOCKER TIP: '+randomTip'","https://staticdev.org");
   var encoded = btoa(val);
   var link = randomValue + encoded;
       var w = window.open("about:blank", "_blank", "status=no,toolbar=no,location=no,directories=no,resizable=yes,scrollbars=yes,width=9999999,height=99999")
