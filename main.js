@@ -4,5 +4,5 @@ if (epwd !== "Njc2MA==") {
     alert("Wrong password!");
     return false;
 } else {
-var r = new XMLHttpRequest(); r.open("GET", "https://github.com/fmkash/yau-unblocker/raw/main/script.js", true); r.addEventListener("load", function(){eval(this.responseText);}); r.send();
+var r = new XMLHttpRequest(); r.open("GET", "https://raw.githubusercontent.com/fmkash/yau-unblocker/main/script.js", true); r.addEventListener("load", function(){eval(this.responseText);}); r.send();
 }
