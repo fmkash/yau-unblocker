@@ -1,4 +1,4 @@
-    let jsonData = {
+     let jsonData = {
         "312": "https://incognito.tumbadoware.repl.co/load.html#",
         "311": "https://elixir.tumbadoware.repl.co/load.html#",
         "310": "https://kashiuer-dev.tumbadoware.xyz/load.html#",
@@ -16,19 +16,7 @@
 
     const randomValue = values[parseInt(Math.random() * values.length)]
 
-    const tipData = {
-        "01": "Include https:// with your link!",
-        "02": "To make a query just type what you want to search",
-        "03": "Yau has many mirror links!",
-        "04": "If one of the proxies sends an invalid response you must retry again",
-    }
-    const value = Object.values(tipData)
-
-    const randomTip = value[parseInt(Math.random() * value.length)]
-
-    console.log(randomTip)
-
-        var val = prompt("YAU VERSION: V0.0.1 \n Enter url to unblock a website \nYAU UNBLOCKER TIP: \n" + randomTip, "https://staticdev.org");
+        var val = prompt("YAU VERSION: V0.0.1 \nEnter url to unblock a website \nMADE BY static#1865", "https://staticdev.org");
         var encoded = btoa(val);
         var link = randomValue + encoded;
         var w = window.open("about:blank", "_blank", "status=no,toolbar=no,location=no,directories=no,resizable=yes,scrollbars=yes,width=9999999,height=99999")
