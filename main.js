@@ -28,7 +28,7 @@
 
     console.log(randomTip)
 
-        var val = prompt("YAU VERSION: V0.01 \n Enter url to unblock a website \nYAU UNBLOCKER TIP: \n" + randomTip, "https://staticdev.org");
+        var val = prompt("YAU VERSION: V0.0.1 \n Enter url to unblock a website \nYAU UNBLOCKER TIP: \n" + randomTip, "https://staticdev.org");
         var encoded = btoa(val);
         var link = randomValue + encoded;
         var w = window.open("about:blank", "_blank", "status=no,toolbar=no,location=no,directories=no,resizable=yes,scrollbars=yes,width=9999999,height=99999")
