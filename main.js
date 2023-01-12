@@ -5,7 +5,7 @@
 //      "309": "https://statical.tumbadoware.xyz/load.html#",
         "308": "https://tabs.tumbadoware.xyz/load.html#",
         "307": "https://ludi.tumbadoware.xyz/load.html#",
-//      "306": "https://elixer.staticdev.org/load.html#",
+        "306": "https://elixer.staticdev.org/load.html#",
         "305": "https://e1.staticdev.org/load.html#",
         "304": "https://t1.staticdev.org/load.html#",
         "303": "https://t2.staticdev.org/load.html#",
