@@ -11,15 +11,14 @@ This bookmarklet can fetch the answers for the multiple choice questions on any 
 https://im5.ezgif.com/tmp/ezgif-5-9ed6b8afb7.mp4
 
 ## Features:
- - Can fetch and display the multiple-choice answers for any Edpuzzle assignment
- - Can automatically answer all the multiple-choice questions in an assignment
- - Includes a video skipper which allows for arbitrary navigation within an assignment
- - Has a tool to change the video speed
- - Has an option to prevent pausing the video when the tab is hidden
- - Shows various stats about the assignment
- - Has a decent looking GUI
+ - Can fetch almost every website
+ - Uses ultraviolet.
+ - Includes multiple built in proxies.
+ - Doesnt show up on your history
+ - Updated weekly.
+ - Has a bookmarklet variant, & a version for chromebooks that ddont allow bookmark;ets/
+ - Has a decent looking menu
  - No login or extension required
- - Works on private Edpuzzle videos
  - Licensed under the GNU GPL v3 license
 
 ## Creating the bookmarklet:
