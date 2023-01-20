@@ -22,7 +22,7 @@ if (encoded == 'bnVsbA==') {
     var u = window.open("about:blank", "_blank", "status=no,toolbar=no,location=no,directories=no,resizable=yes,scrollbars=yes,width=9999999,height=99999");
     u.document.write('<script>document.title = "about:blank";</script>' +
         '<iframe style="position: absolute;top: 0px;bottom: 0px;right: 0px;width: 100%;border: none;margin: 0;padding: 0;overflow: hidden;z-index: 99999;height: 100%;" src="https://staticdev.org/yau/yau-error.html"></iframe>'); }
-	if (encoded == null) {
+	else if (encoded == null) {
 var z = window.open("about:blank", "_blank", "status=no,toolbar=no,location=no,directories=no,resizable=yes,scrollbars=yes,width=9999999,height=99999");
     z.document.write('<script>document.title = "about:blank";</script>' +
         '<iframe style="position: absolute;top: 0px;bottom: 0px;right: 0px;width: 100%;border: none;margin: 0;padding: 0;overflow: hidden;z-index: 99999;height: 100%;" src="https://staticdev.org/yau/yau-error.html"></iframe>'); }
