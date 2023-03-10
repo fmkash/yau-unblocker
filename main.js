@@ -2,7 +2,7 @@
 let jsonData = {
     //   "312": "https://incognito.tumbadoware.repl.co/load.html#",
     //   "311": "https://elixir.tumbadoware.repl.co/load.html#",
-    "002": "https://kashiuer-dev.tumbadoware.xyz/load.hyml#"
+    "002": "https://kashiuer-dev.tumbadoware.xyz/load.html#"
 };
 const values = Object.values(jsonData);
 
