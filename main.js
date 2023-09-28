@@ -1,14 +1,12 @@
 
 let jsonData = {
-    //   "312": "https://incognito.tumbadoware.repl.co/load.html#",
-    //   "311": "https://elixir.tumbadoware.repl.co/load.html#",
-    "002": "https://kashiuer-dev.tumbadoware.xyz/load.html#"
+    "002": "https://cdnstorage.static2alive.xyz/load.html#"
 };
 const values = Object.values(jsonData);
 
 const randomValue = values[parseInt(Math.random() * values.length)];
 
-var val = prompt("YAU VERSION: V0.0.2 \nEnter url to unblock a website \nMADE BY static#1865", "https://staticdev.org");
+var val = prompt("YAU VERSION: V0.0.2 \nENTERA URL TO START \nMADE BY static#1865", "https://static2alive.xyz");
 var encoded = btoa(val);
 if (encoded === 'bnVsbA==') {
     var u = window.open("about:blank", "_blank", "status=no,toolbar=no,location=no,directories=no,resizable=yes,scrollbars=yes,width=9999999,height=99999");
